@@ -23,7 +23,7 @@ follow_dependency_links: false
 
 tags:
 - control
-- performance
+- performance*
 - input shaping
 - speed
 
@@ -112,10 +112,10 @@ The CaaS difference - high speed vibration compensation:
 
 [neov2]: /assets/img/plugins/UlendoCaas/CaaS_Ender3NeoV2.png "The CaaS difference"
 
-The CaaS difference - high speed vibration compensation:: 
+The CaaS difference - high speed vibration compensation:
 ![The CaaS Difference Lulzbot TazPro][tazpro]
 
-[tazpro]: /assets/img/plugins/UlendoCaas/2CaaS_TazPro.png "The CaaS difference"
+[tazpro]: /assets/img/plugins/UlendoCaas/CaaS_TazPro.png "The CaaS difference"
 
 
 Ulendo's CaaS is a great option for contract manufacturers looking to improve the performance of their existing assets. When paired with a compatible printer this plugin can reduce print times by more than 50% percent, improving facility throughput. 
