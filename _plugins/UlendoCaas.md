@@ -2,12 +2,6 @@
 layout: plugin
 
 <<<<<<< HEAD
-id: autocal
-title: Ulendo Calibration as a Service
-description: Double the performance of your legacy printer with Ulendo CaaS. CaaS automatically tunes vibration compensation parameters for firmware using FT-MOTION module, allowing printers to reduce print times by 50% while maintaining high levels of accuracy.
-authors: info@ulendo.io
-license: ""
-=======
 id: ulendocaas
 title: Ulendo Calibration as a Service
 description: Double the performance of your legacy printer with Ulendo CaaS. CaaS automatically tunes vibration compensation parameters for firmware using FT-MOTION module, allowing printers to reduce print times by 50% while maintaining high levels of accuracy.
