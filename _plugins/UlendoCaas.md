@@ -115,7 +115,7 @@ The CaaS difference - high speed vibration compensation:
 The CaaS difference - high speed vibration compensation:
 ![The CaaS Difference Lulzbot TazPro][tazpro]
 
-[tazpro]: /assets/img/plugins/UlendoCaas/CaaS_TazPro.png "The CaaS difference"
+[tazpro]: /assets/img/plugins/ulendocaas/CaaS_TazPro.png "The CaaS difference"
 
 
 Ulendo's CaaS is a great option for contract manufacturers looking to improve the performance of their existing assets. When paired with a compatible printer this plugin can reduce print times by more than 50% percent, improving facility throughput. 
@@ -151,4 +151,4 @@ Additionally, this software requires an accelerometer to be connected. As of the
     - No, a Raspberry Pi is a required to connect and collect data from the accelerometer
 
 6. Can I use this on my printer that does not run Marlin
-    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS
+    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS333
