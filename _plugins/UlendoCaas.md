@@ -4,7 +4,8 @@ layout: plugin
 id: ulendocaas
 title: Ulendo Calibration as a Service
 description: Double the performance of your legacy printer with Ulendo CaaS. CaaS automatically tunes vibration compensation parameters for firmware using FT-MOTION module, allowing printers to reduce print times by 50% while maintaining high levels of accuracy.
-authors: Ulendo Technologies
+authors: 
+- Ulendo Technologies
 license: AGPLv3
 
 # today's date in format YYYY-MM-DD, e.g.
@@ -15,7 +16,7 @@ source: https://github.com/S2AUlendo/UlendoCaaS
 archive: https://github.com/S2AUlendo/UlendoCaaS/archive/refs/tags/v0.1.3.zip
 
 # Set this if your plugin heavily interacts with any kind of cloud services.
-privacypolicy: https://live.d11dolnrbc1eee.amplifyapp.com/privacy
+privacypolicy: https://www.ulendo.io/privacy-policy
 
 # Set this to true if your plugin uses the dependency_links setup parameter to include
 # library versions not yet published on pypi. SHOULD ONLY BE USED IF THERE IS NO OTHER OPTION!
@@ -28,20 +29,20 @@ tags:
 - speed
 
 screenshots:
-- url: /assets/img/plugins/UlendoCaas/realtime_accelerometer_updates.png
+- url: /assets/img/plugins/ulendocaas/realtime_accelerometer_updates.png
   alt: view of the pre-computed response of the selected input shaper
   caption: projected response
-- url: /assets/img/plugins/UlendoCaas/detailed_vibration_compensation_analysis.png
+- url: /assets/img/plugins/ulendocaas/detailed_vibration_compensation_analysis.png
   alt: view of the pre-computed response of the selected input shaper
   caption: projected response
-- url: /assets/img/plugins/UlendoCaas/compensation_verification.png
+- url: /assets/img/plugins/ulendocaas/compensation_verification.png
   alt: view of the measured vibration response after the compensation is applied
   caption: actual vibration response after compensation
-- url: /assets/img/plugins/UlendoCaas/plugin_configuration.png
+- url: /assets/img/plugins/ulendocaas/plugin_configuration.png
   alt: overview of configuration available through the settings window
   caption: advanced configuration options
 
-featuredimage: /assets/img/plugins/UlendoCaas/CaaS_Ad4.png
+featuredimage: /assets/img/plugins/ulendocaas/CaaS_Ad4.png
 
 # You only need the following if your plugin requires specific OctoPrint versions or
 # specific operating systems to function - you can safely remove the whole
@@ -110,7 +111,7 @@ In testing on the Ender V2, speeds of over 150 mm/s and accelerations of 5,000 m
 The CaaS difference - high speed vibration compensation: 
 ![The CaaS Difference Ender 3 V2][neov2]
 
-[neov2]: /assets/img/plugins/UlendoCaas/CaaS_Ender3NeoV2.png "The CaaS difference"
+[neov2]: /assets/img/plugins/ulendocaas/CaaS_Ender3NeoV2.png "The CaaS difference"
 
 The CaaS difference - high speed vibration compensation:
 ![The CaaS Difference Lulzbot TazPro][tazpro]
