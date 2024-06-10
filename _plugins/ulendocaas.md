@@ -136,20 +136,23 @@ This plugin works in conjunction with the FT_MOTION system that is available in 
 Additionally, this software requires an accelerometer to be connected. As of the 0.1.2 update only the ADXL345 is supported. However, there is additional planned support for the ADXL365 and the LIS3DH accelerometer. 
 
 ## FAQ
-1. Does this work with all printers
+1. Does this work with all printers?
     ⋅⋅* No, This plugin was specifically made to work with a Marlin feature called FT_MOTION developed by ULENDO. It is only compatible with versions of Marlin >2.1.3. [Fixed Time Motion](https://marlinfw.org/docs/gcode/M493.html "Fixed Time Motion")
 
 2. Does this software require changes to the machine components?
     ⋅⋅*No, aside from attaching an accelerometer, there are no other machine requirements
 
 3. Does this only work on COREXY machines?
-    ⋅⋅* No, This software has been tested on traditional cartesian, COREXY, Ultimaker-style cartesian printers, and bed slinger printers, all printer types were able to see some relatively improvement in their performance when compared against the uncompensated prints. 
+    ⋅⋅* No, This software has been tested on traditional cartesian, COREXY, Ultimaker-style cartesian printers, and bed slinger printers, all printer types were able to see some relative improvement in their performance when compared against the uncompensated prints. 
 
 4. Will my failure rates increase, if I increase the speed?
     ⋅⋅* When compared to the uncompensated, default behavior most printers were able to achieve 2X without any decrease in reliability. However, there are other factors besides vibration that may affect printer performance.
 
-5. Can I run this on my desktop computer without a Raspberry Pi
+5. Can I run this on my desktop computer without a Raspberry Pi?
     - No, a Raspberry Pi is a required to connect and collect data from the accelerometer
 
-6. Can I use this on my printer that does not run Marlin
-    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS
+6. Can I use this on my printer that does not run Marlin?
+    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS.
+
+7. How much does it cost?
+   ..* A free 30-day trial is available for evaluation. For enterprise customers, a CaaS license is $295/year per instance. 
