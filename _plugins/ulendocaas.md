@@ -13,7 +13,7 @@ date: 2024-06-06
 
 homepage: https://github.com/S2AUlendo/UlendoCaaS
 source: https://github.com/S2AUlendo/UlendoCaaS
-archive: https://github.com/S2AUlendo/UlendoCaaS/archive/refs/tags/v0.1.3.zip
+archive: https://github.com/S2AUlendo/UlendoCaaS/archive/refs/heads/main.zip
 
 # Set this if your plugin heavily interacts with any kind of cloud services.
 privacypolicy: https://www.ulendo.io/privacy-policy
