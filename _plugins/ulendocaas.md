@@ -152,4 +152,4 @@ Additionally, this software requires an accelerometer to be connected. As of the
     - No, a Raspberry Pi is a required to connect and collect data from the accelerometer
 
 6. Can I use this on my printer that does not run Marlin
-    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS333
+    ⋅⋅* No, there is planned support for other platforms in the future. However, currently only Marlin versions >2.1.3 is supported. Talk with your OEM about adding support for Ulendo CaaS
